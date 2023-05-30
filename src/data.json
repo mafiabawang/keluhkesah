@@ -1,0 +1,38 @@
+{
+  "dataList": [
+    {
+      "nama": "Yaafi Effendi A",
+      "nrp": "3122510641",
+      "nowa": "085337301001",
+      "angkatan": "2022",
+      "program": "PJJ D3 TI",
+      "keluhan": "TUGAS BANYAK DEADLINE MEPET",
+      "id": 1
+    },
+    {
+      "nama": "kambingacid",
+      "nrp": "1234",
+      "nowa": "085156581491",
+      "angkatan": "2022",
+      "program": "PJJ D4 TELKOM",
+      "keluhan": "WAKTUNYA SERING MENDADAK BERUBAH",
+      "id": 2
+    },
+    {
+      "nama": "mafiabawang",
+      "nrp": "67890",
+      "nowa": "085156581569",
+      "angkatan": "2022",
+      "program": "PJJ D4 TELKOM",
+      "keluhan": "MATERI ELIT TUGAS SULIT",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "email": "mafiapentol@mail.com",
+      "password": "$2a$10$aM62HLKd2NgREsQ0EoA4c.29La6w/RJaQIuAOvKOsCBN16Ba4dEae",
+      "id": 1
+    }
+  ]
+}
